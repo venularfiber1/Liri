@@ -64,7 +64,7 @@ function doIt() {
             break;
 
             default:
-                console.log("Enter an approved command")
+                console.log("Enter command")
             }
         }
     })
